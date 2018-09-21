@@ -1,4 +1,5 @@
 # AngularPipes
 
-[Angular Core Infomation In angular Site ](https://angular.io/api)
+[Angular Core Explanation In angular Site ](https://angular.io/guide/pipes)
+[Angular In Build Pipes](https://angular.io/api)
 
