@@ -4,3 +4,6 @@
 
 [Angular In Build Pipes](https://angular.io/api)
 
+| Item      | CLI command                    |
+| ----------|:------------------------------:|
+|Pipe     	|ng g pipe my-new-pipe           |
